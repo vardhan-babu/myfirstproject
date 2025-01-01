@@ -1,0 +1,187 @@
+body{
+    margin: 0%;
+    background-color: rgba(10, 10, 12, 0.689); 
+}
+.navbar{
+    position: fixed;
+    width: 100px;
+    z-index: 9999;
+    top: 0%;
+}
+.nav-logo{
+    height: 80px;
+}
+.clickon-body{
+    /* style.css */
+    background-color: rgba(40, 40, 43, 0.689) rgb(163, 142, 142); /* Using a named color for the background */
+}
+.item-nav{
+    color: white;
+    font-family: "Poppins", serif;
+    font-size: 15px;
+}
+.item-nav:hover{
+    color: white;
+}
+.anchor{
+    margin-left: 1125px;
+    padding: 8px;
+}
+.body-section{
+    height: 80vh;
+}
+.box-left{
+    color: white;
+    height: 50px;
+    font-family: "Encode Sans", serif;
+}
+.box-right{
+    padding-left: 100px;
+}
+.image{
+    height: 550px;
+}
+.name{
+    text-align: center;
+}
+.head{
+    color: white;
+    text-align: center;
+    font-family: "Poppins", serif;
+}
+.detials{
+    color: white;
+    font-family:  "Montserrat", sans-serif;
+    font-size: 25px;
+    text-align: center;
+    padding-left: 200px;
+    padding-right: 200px;
+}
+.card{
+    background-color: transparent;
+    color: white;
+    border: 2px white solid;
+    padding: 20px;
+}
+.card-h1{
+    padding-top: 20px;
+    text-align: center;
+}
+.card-p{
+    text-align: center;
+    font-size: 20px;
+}
+.card:hover{
+    color: rgba(152, 79, 117, 0.901);
+}
+.social-icon{
+    height: 50px;
+    padding-left: 580px;
+}
+.social-icon-img{
+    height: 50px;
+    padding: 5px;
+}
+.login-us{
+    color: white;
+    text-align: center;
+    font-family: "Poppins", serif;
+}
+.login-tab{
+    padding: 100px;
+    padding-left: 600px;
+    padding-top: 30px;
+}
+.passage-of-wedsite{
+    border: 2px rgb(255, 176, 176) solid;
+    color: aliceblue;
+    font-family:  "Montserrat", sans-serif;
+    padding-left: 5px;
+    padding-right: 4px;
+    padding-top: 4px;
+    padding-bottom: 3px;
+}
+/* Container holding the image and the text */
+.image-baground {
+    position: relative;
+    text-align: center;
+    color: white;
+    border: red 2px solid;
+    
+}
+
+  /* Bottom left text */
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+}
+
+  /* Top left text */
+.top-left {
+    position: absolute;
+    top: 8px;
+    left: 16px;
+}
+
+  /* Top right text */
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+}
+
+  /* Bottom right text */
+.bottom-right {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
+  /* Centered text */
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+.quick-link{
+    padding-left: 450px;
+    list-style-type: none;
+    font-family: "Chokokutai", serif;
+}
+.logo{
+    padding-left: 120px;
+    font-family: "Chokokutai", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.logo-subscribe{
+    padding-left: 0;
+    font-family: "Encode Sans", serif;
+}
+.stay-connected{
+padding-left: 190px;
+list-style-type: none;
+font-family: "Chokokutai", serif;
+}
+.follow-us{
+padding-left: 0px;
+list-style-type: none;
+font-family: "Chokokutai", serif;
+}
+.quick{
+    font-family: "Chokokutai", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.stay{
+    font-family: "Chokokutai", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.follow{
+    font-family: "Chokokutai", serif;
+    font-weight: 400;
+    font-style: normal;
+}
